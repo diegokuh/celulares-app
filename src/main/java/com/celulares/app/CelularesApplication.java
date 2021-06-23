@@ -150,6 +150,8 @@ public class CelularesApplication extends JFrame {
 		JButton btnLimpiar = new JButton("Limpiar");
 		btnLimpiar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				removeLabels();
+				lblResultTitle.setVisible(false);
 				cmbSo.setSelectedIndex(0);
 				cmbAlmacenamiento.setSelectedIndex(0);
 				cmbCamara.setSelectedIndex(0);
