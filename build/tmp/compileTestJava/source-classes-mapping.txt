@@ -1,0 +1,2 @@
+com/celulares/app/CelularesApplicationTests.java
+ com.celulares.app.CelularesApplicationTests
