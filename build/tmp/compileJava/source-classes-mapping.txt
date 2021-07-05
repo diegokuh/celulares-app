@@ -1,3 +1,0 @@
-com/celulares/app/CelularesApplication.java
- com.celulares.app.CelularesApplication
- com.celulares.app.CelularesApplication$1
